@@ -4,6 +4,7 @@
   <artifactId>mypro</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
+ 
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -16,4 +17,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  	</dependency>
+  </dependencies>
 </project>
