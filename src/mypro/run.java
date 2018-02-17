@@ -2,6 +2,12 @@ package mypro;
 
 public class run {
 public static void main(String[] args) {
-	System.out.println("test1");
+	testcase.test();
+}
+
+
+static
+void fun(){
+	System.out.println("testing passed..............");
 }
 }
