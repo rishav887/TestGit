@@ -6,8 +6,9 @@ public static void main(String[] args) {
 }
 
 
-static
-void fun(){
+static void fun(){
 	System.out.println("testing passed..............");
+	
+	System.out.println("test");
 }
 }
